@@ -1,0 +1,7 @@
+hdq13649891596
+
+update-alternatives --install /usr/bin/java java /usr/lib/jvm/jdk1.8.0_101/bin/java 300  
+update-alternatives --install /usr/bin/javac javac /usr/lib/jvm/jdk1.8.0_101/bin/javac 300  
+update-alternatives --install /usr/bin/jar jar /usr/lib/jvm/jdk1.8.0_101/bin/jar 300   
+update-alternatives --install /usr/bin/javah javah /usr/lib/jvm/jdk1.8.0_101/bin/javah 300   
+update-alternatives --install /usr/bin/javap javap /usr/lib/jvm/jdk1.8.0_101/bin/javap 300  
